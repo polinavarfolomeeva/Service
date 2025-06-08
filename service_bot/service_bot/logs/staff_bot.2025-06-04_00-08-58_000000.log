@@ -1,0 +1,24 @@
+2025-06-03 20:48:48 | INFO | Запуск бота для сотрудников...
+2025-06-03 20:48:48 | INFO | Бот сотрудников запущен
+2025-06-03 20:49:55 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders
+2025-06-03 20:49:55 | DEBUG | API response status: 200
+2025-06-03 20:50:01 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders/by-number/000000006
+2025-06-03 20:50:01 | DEBUG | API response status: 200
+2025-06-03 20:50:08 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders
+2025-06-03 20:50:08 | DEBUG | API response status: 200
+2025-06-03 20:50:09 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders/by-number/000000005
+2025-06-03 20:50:09 | DEBUG | API response status: 200
+2025-06-03 23:27:23 | INFO | Запуск бота для сотрудников...
+2025-06-03 23:27:23 | INFO | Бот сотрудников запущен
+2025-06-03 23:31:07 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders
+2025-06-03 23:31:07 | DEBUG | API response status: 200
+2025-06-03 23:31:08 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders/by-number/000000003
+2025-06-03 23:31:08 | DEBUG | API response status: 200
+2025-06-04 00:00:35 | INFO | Запуск бота для сотрудников...
+2025-06-04 00:00:36 | INFO | Бот сотрудников запущен
+2025-06-04 00:03:18 | INFO | Запуск бота для сотрудников...
+2025-06-04 00:03:18 | INFO | Бот сотрудников запущен
+2025-06-04 00:03:36 | INFO | Запуск бота для сотрудников...
+2025-06-04 00:03:37 | INFO | Бот сотрудников запущен
+2025-06-04 00:08:57 | INFO | Запуск бота для сотрудников...
+2025-06-04 00:08:57 | INFO | Бот сотрудников запущен

@@ -1,0 +1,70 @@
+2025-05-24 01:07:39 | INFO | Тестирование соединения с API...
+2025-05-24 01:07:40 | INFO | Используемый API URL: http://localhost:8080/test/hs/api
+2025-05-24 01:07:40 | INFO | Базовый URL для запросов: http://localhost:8080/test/hs
+2025-05-24 01:07:40 | DEBUG | Making GET request to: http://localhost:8080/test/hs
+2025-05-24 01:07:40 | DEBUG | API response status: 404
+2025-05-24 01:07:40 | INFO | Результат теста API: 404
+2025-05-24 01:07:40 | INFO | Тестирование запроса категорий...
+2025-05-24 01:07:40 | DEBUG | Making GET request to: http://localhost:8080/test/hs/api/catalog/categories
+2025-05-24 01:07:40 | DEBUG | API response status: 200
+2025-05-24 01:07:40 | INFO | Результат запроса категорий: 200
+2025-05-24 01:07:40 | INFO | Бот настроен на использование реального API
+2025-05-24 01:07:40 | INFO | Бот запущен
+2025-05-24 01:08:10 | DEBUG | Making POST request to: http://localhost:8080/test/hs/api/auth/login
+2025-05-24 01:08:10 | DEBUG | API response status: 200
+2025-05-24 01:08:11 | ERROR | Не удалось удалить сообщение с паролем: Telegram server says - Bad Request: message to delete not found
+2025-05-24 01:08:20 | WARNING | Неизвестный callback_data: order_history
+2025-05-24 01:08:24 | INFO | Обработчик 'my_cars' вызван!
+2025-05-24 01:09:53 | INFO | Тестирование соединения с API...
+2025-05-24 01:09:53 | INFO | Используемый API URL: http://localhost:8080/test/hs/api
+2025-05-24 01:09:53 | INFO | Базовый URL для запросов: http://localhost:8080/test/hs
+2025-05-24 01:09:53 | DEBUG | Making GET request to: http://localhost:8080/test/hs
+2025-05-24 01:09:53 | DEBUG | API response status: 404
+2025-05-24 01:09:53 | INFO | Результат теста API: 404
+2025-05-24 01:09:53 | INFO | Тестирование запроса категорий...
+2025-05-24 01:09:53 | DEBUG | Making GET request to: http://localhost:8080/test/hs/api/catalog/categories
+2025-05-24 01:09:53 | DEBUG | API response status: 200
+2025-05-24 01:09:53 | INFO | Результат запроса категорий: 200
+2025-05-24 01:09:53 | INFO | Бот настроен на использование реального API
+2025-05-24 01:09:53 | INFO | Бот запущен
+2025-05-24 01:10:19 | DEBUG | Making POST request to: http://localhost:8080/test/hs/api/auth/login
+2025-05-24 01:10:19 | DEBUG | API response status: 200
+2025-05-24 01:10:20 | ERROR | Не удалось удалить сообщение с паролем: Telegram server says - Bad Request: message to delete not found
+2025-05-24 01:10:24 | WARNING | Неизвестный callback_data: order_history
+2025-05-24 01:17:02 | WARNING | Неизвестный callback_data: order_history
+2025-05-24 01:20:14 | INFO | Тестирование соединения с API...
+2025-05-24 01:20:14 | INFO | Используемый API URL: http://localhost:8080/test/hs/api
+2025-05-24 01:20:14 | INFO | Базовый URL для запросов: http://localhost:8080/test/hs
+2025-05-24 01:20:14 | DEBUG | Making GET request to: http://localhost:8080/test/hs
+2025-05-24 01:20:14 | DEBUG | API response status: 404
+2025-05-24 01:20:14 | INFO | Результат теста API: 404
+2025-05-24 01:20:14 | INFO | Тестирование запроса категорий...
+2025-05-24 01:20:14 | DEBUG | Making GET request to: http://localhost:8080/test/hs/api/catalog/categories
+2025-05-24 01:20:14 | DEBUG | API response status: 200
+2025-05-24 01:20:14 | INFO | Результат запроса категорий: 200
+2025-05-24 01:20:14 | INFO | Бот настроен на использование реального API
+2025-05-24 01:20:15 | INFO | Бот запущен
+2025-05-24 01:20:39 | DEBUG | Making POST request to: http://localhost:8080/test/hs/api/auth/login
+2025-05-24 01:20:39 | DEBUG | API response status: 200
+2025-05-24 01:20:39 | ERROR | Не удалось удалить сообщение с паролем: Telegram server says - Bad Request: message to delete not found
+2025-05-24 01:20:43 | INFO | Обработчик 'order_history' вызван!
+2025-05-24 01:20:43 | DEBUG | Запрос истории покупок по номеру телефона: 79991234567
+2025-05-24 01:20:43 | DEBUG | Making GET request to: http://localhost:8080/test/hs/api/orders/history
+2025-05-24 01:20:43 | DEBUG | API response status: 500
+2025-05-24 01:36:43 | INFO | Тестирование соединения с API...
+2025-05-24 01:36:43 | INFO | Используемый API URL: http://localhost:8080/test/hs/api
+2025-05-24 01:36:43 | INFO | Базовый URL для запросов: http://localhost:8080/test/hs
+2025-05-24 01:36:43 | DEBUG | Making GET request to: http://localhost:8080/test/hs
+2025-05-24 01:36:43 | DEBUG | API response status: 404
+2025-05-24 01:36:43 | INFO | Результат теста API: 404
+2025-05-24 01:36:43 | INFO | Тестирование запроса категорий...
+2025-05-24 01:36:43 | DEBUG | Making GET request to: http://localhost:8080/test/hs/api/catalog/categories
+2025-05-24 01:36:43 | DEBUG | API response status: 200
+2025-05-24 01:36:43 | INFO | Результат запроса категорий: 200
+2025-05-24 01:36:43 | INFO | Бот настроен на использование реального API
+2025-05-24 01:36:44 | INFO | Бот запущен
+2025-05-24 01:37:16 | DEBUG | Making POST request to: http://localhost:8080/test/hs/api/auth/login
+2025-05-24 01:37:16 | DEBUG | API response status: 200
+2025-05-24 01:37:17 | ERROR | Не удалось удалить сообщение с паролем: Telegram server says - Bad Request: message to delete not found
+2025-05-24 01:37:21 | INFO | Обработчик 'order_history' вызван!
+2025-05-24 01:37:21 | ERROR | Ошибка при получении истории заказов: 'ApiService' object has no attribute 'get_purchase_history_by_phone'

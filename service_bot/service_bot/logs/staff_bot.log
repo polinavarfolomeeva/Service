@@ -1,0 +1,112 @@
+2025-06-08 07:11:11 | INFO | Запуск бота для сотрудников...
+2025-06-08 07:11:11 | INFO | Бот сотрудников запущен
+2025-06-08 07:13:26 | INFO | Запуск бота для сотрудников...
+2025-06-08 07:13:26 | INFO | Бот сотрудников запущен
+2025-06-08 07:15:09 | INFO | Запуск бота для сотрудников...
+2025-06-08 07:15:09 | INFO | Бот сотрудников запущен
+2025-06-08 07:16:14 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders
+2025-06-08 07:16:14 | DEBUG | API response status: 200
+2025-06-08 07:16:17 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders/by-number/000000005
+2025-06-08 07:16:17 | DEBUG | API response status: 200
+2025-06-08 07:16:20 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders/statuses/list
+2025-06-08 07:16:20 | DEBUG | API response status: 200
+2025-06-08 07:16:20 | DEBUG | Making POST request to: http://localhost:8000/test/hs/api/orders/000000005/status
+2025-06-08 07:16:20 | DEBUG | API response status: 500
+2025-06-08 07:26:52 | INFO | Запуск бота для сотрудников...
+2025-06-08 07:26:53 | INFO | Бот сотрудников запущен
+2025-06-08 07:27:01 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders/statuses/list
+2025-06-08 07:27:01 | DEBUG | API response status: 200
+2025-06-08 07:27:01 | DEBUG | Making POST request to: http://localhost:8000/test/hs/api/orders/000000005/status
+2025-06-08 07:27:01 | DEBUG | API response status: 200
+2025-06-08 07:27:04 | DEBUG | Making PUT request to: http://localhost:8000/test/hs/api/orders/000000005/status
+2025-06-08 07:27:04 | DEBUG | API response status: 200
+2025-06-08 07:27:04 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders/statuses/list
+2025-06-08 07:27:04 | DEBUG | API response status: 200
+2025-06-08 07:30:33 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders/by-number/000000005
+2025-06-08 07:30:33 | DEBUG | API response status: 200
+2025-06-08 07:42:03 | INFO | Запуск бота для сотрудников...
+2025-06-08 07:42:03 | INFO | Бот сотрудников запущен
+2025-06-08 07:42:23 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders
+2025-06-08 07:42:23 | DEBUG | API response status: 200
+2025-06-08 07:42:32 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders/by-number/000000004
+2025-06-08 07:42:32 | DEBUG | API response status: 200
+2025-06-08 07:42:34 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders/statuses/list
+2025-06-08 07:42:34 | DEBUG | API response status: 200
+2025-06-08 07:42:34 | DEBUG | Making POST request to: http://localhost:8000/test/hs/api/orders/000000004/status
+2025-06-08 07:42:34 | DEBUG | API response status: 200
+2025-06-08 07:42:37 | DEBUG | Making PUT request to: http://localhost:8000/test/hs/api/orders/000000004/status
+2025-06-08 07:42:37 | DEBUG | API response status: 400
+2025-06-08 07:42:41 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders/by-number/000000004
+2025-06-08 07:42:41 | DEBUG | API response status: 200
+2025-06-08 07:43:43 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders
+2025-06-08 07:43:43 | DEBUG | API response status: 200
+2025-06-08 07:43:46 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders/by-number/000000005
+2025-06-08 07:43:46 | DEBUG | API response status: 200
+2025-06-08 07:43:47 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders/statuses/list
+2025-06-08 07:43:47 | DEBUG | API response status: 200
+2025-06-08 07:43:47 | DEBUG | Making POST request to: http://localhost:8000/test/hs/api/orders/000000005/status
+2025-06-08 07:43:47 | DEBUG | API response status: 200
+2025-06-08 07:43:49 | DEBUG | Making PUT request to: http://localhost:8000/test/hs/api/orders/000000005/status
+2025-06-08 07:43:49 | DEBUG | API response status: 400
+2025-06-08 07:48:13 | INFO | Запуск бота для сотрудников...
+2025-06-08 07:48:14 | INFO | Бот сотрудников запущен
+2025-06-08 07:48:16 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders
+2025-06-08 07:48:16 | DEBUG | API response status: 200
+2025-06-08 07:48:18 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders/by-number/000000006
+2025-06-08 07:48:18 | DEBUG | API response status: 200
+2025-06-08 07:48:20 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders/statuses/list
+2025-06-08 07:48:20 | DEBUG | API response status: 200
+2025-06-08 07:48:20 | DEBUG | Making POST request to: http://localhost:8000/test/hs/api/orders/000000006/status
+2025-06-08 07:48:20 | DEBUG | API response status: 200
+2025-06-08 07:48:21 | DEBUG | Making PUT request to: http://localhost:8000/test/hs/api/orders/000000006/status
+2025-06-08 07:48:21 | DEBUG | API response status: 200
+2025-06-08 07:48:21 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders/statuses/list
+2025-06-08 07:48:21 | DEBUG | API response status: 200
+2025-06-08 07:48:23 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders/by-number/000000006
+2025-06-08 07:48:23 | DEBUG | API response status: 200
+2025-06-08 07:48:25 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders
+2025-06-08 07:48:25 | DEBUG | API response status: 200
+2025-06-08 07:56:25 | INFO | Запуск бота для сотрудников...
+2025-06-08 07:56:25 | INFO | Бот сотрудников запущен
+2025-06-08 07:57:13 | INFO | Запуск бота для сотрудников...
+2025-06-08 07:57:13 | INFO | Бот сотрудников запущен
+2025-06-08 07:57:17 | INFO | Запуск бота для сотрудников...
+2025-06-08 07:57:17 | INFO | Бот сотрудников запущен
+2025-06-08 07:59:15 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders
+2025-06-08 07:59:15 | DEBUG | API response status: 200
+2025-06-08 07:59:17 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders/by-number/000000003
+2025-06-08 07:59:17 | DEBUG | API response status: 200
+2025-06-08 07:59:18 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders/statuses/list
+2025-06-08 07:59:18 | DEBUG | API response status: 200
+2025-06-08 07:59:18 | DEBUG | Making POST request to: http://localhost:8000/test/hs/api/orders/000000003/status
+2025-06-08 07:59:18 | DEBUG | API response status: 200
+2025-06-08 07:59:20 | DEBUG | Making PUT request to: http://localhost:8000/test/hs/api/orders/000000003/status
+2025-06-08 07:59:20 | DEBUG | API response status: 200
+2025-06-08 07:59:20 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders/statuses/list
+2025-06-08 07:59:20 | DEBUG | API response status: 200
+2025-06-08 08:03:42 | INFO | Запуск бота для сотрудников...
+2025-06-08 08:03:43 | INFO | Бот сотрудников запущен
+2025-06-08 08:12:00 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders
+2025-06-08 08:12:00 | DEBUG | API response status: 200
+2025-06-08 08:12:02 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders/by-number/000000006
+2025-06-08 08:12:02 | DEBUG | API response status: 200
+2025-06-08 08:12:07 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders/statuses/list
+2025-06-08 08:12:07 | DEBUG | API response status: 200
+2025-06-08 08:12:07 | DEBUG | Making POST request to: http://localhost:8000/test/hs/api/orders/000000006/status
+2025-06-08 08:12:07 | DEBUG | API response status: 200
+2025-06-08 08:12:10 | DEBUG | Making PUT request to: http://localhost:8000/test/hs/api/orders/000000006/status
+2025-06-08 08:12:10 | DEBUG | API response status: 400
+2025-06-08 08:12:51 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders
+2025-06-08 08:12:51 | DEBUG | API response status: 200
+2025-06-08 08:12:56 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders/by-number/000000005
+2025-06-08 08:12:56 | DEBUG | API response status: 200
+2025-06-08 08:12:58 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders/statuses/list
+2025-06-08 08:12:58 | DEBUG | API response status: 200
+2025-06-08 08:12:58 | DEBUG | Making POST request to: http://localhost:8000/test/hs/api/orders/000000005/status
+2025-06-08 08:12:58 | DEBUG | API response status: 200
+2025-06-08 08:13:07 | DEBUG | Making PUT request to: http://localhost:8000/test/hs/api/orders/000000005/status
+2025-06-08 08:13:07 | DEBUG | API response status: 200
+2025-06-08 08:13:07 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/orders/statuses/list
+2025-06-08 08:13:07 | DEBUG | API response status: 200
+2025-06-08 08:17:06 | INFO | Запуск бота для сотрудников...
+2025-06-08 08:17:06 | INFO | Бот сотрудников запущен

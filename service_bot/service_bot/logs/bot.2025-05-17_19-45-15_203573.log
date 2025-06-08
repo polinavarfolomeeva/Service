@@ -1,0 +1,15 @@
+2025-05-17 19:45:15 | INFO | Тестирование соединения с API...
+2025-05-17 19:45:15 | INFO | Используемый API URL: http://localhost:8080/test/hs/api
+2025-05-17 19:45:15 | INFO | Базовый URL для запросов: http://localhost:8080/test/hs
+2025-05-17 19:45:15 | DEBUG | Making GET request to: http://localhost:8080/test/hs
+2025-05-17 19:45:15 | DEBUG | API response status: 404
+2025-05-17 19:45:15 | INFO | Результат теста API: 404
+2025-05-17 19:45:15 | INFO | Тестирование запроса категорий...
+2025-05-17 19:45:15 | DEBUG | Making GET request to: http://localhost:8080/test/hs/api/catalog/categories
+2025-05-17 19:45:15 | DEBUG | API response status: 200
+2025-05-17 19:45:15 | INFO | Результат запроса категорий: 200
+2025-05-17 19:45:15 | INFO | Бот настроен на использование реального API
+2025-05-17 19:45:17 | INFO | Бот запущен
+2025-05-17 19:45:41 | DEBUG | Making POST request to: http://localhost:8080/test/hs/api/auth/login
+2025-05-17 19:45:41 | DEBUG | API response status: 200
+2025-05-17 19:45:42 | ERROR | Не удалось удалить сообщение с паролем: Telegram server says - Bad Request: message to delete not found

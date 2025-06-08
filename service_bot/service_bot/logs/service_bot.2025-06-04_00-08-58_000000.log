@@ -1,0 +1,30 @@
+2025-06-03 20:48:48 | INFO | Запуск бота для механиков СТО...
+2025-06-03 20:48:51 | INFO | Бот механиков СТО запущен
+2025-06-03 20:50:33 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/service-orders
+2025-06-03 20:50:33 | DEBUG | API response status: 200
+2025-06-03 20:50:34 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/service-orders/000000001
+2025-06-03 20:50:34 | DEBUG | API response status: 200
+2025-06-03 20:50:38 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/service-orders/000000001
+2025-06-03 20:50:38 | DEBUG | API response status: 200
+2025-06-03 23:27:23 | INFO | Запуск бота для механиков СТО...
+2025-06-03 23:27:23 | INFO | Бот механиков СТО запущен
+2025-06-03 23:30:50 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/service-orders
+2025-06-03 23:30:50 | DEBUG | API response status: 200
+2025-06-03 23:30:52 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/service-orders/000000001
+2025-06-03 23:30:52 | DEBUG | API response status: 200
+2025-06-03 23:37:16 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/service-orders
+2025-06-03 23:37:16 | DEBUG | API response status: 200
+2025-06-03 23:37:22 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/service-orders/000000001
+2025-06-03 23:37:22 | DEBUG | API response status: 200
+2025-06-03 23:38:04 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/service-orders
+2025-06-03 23:38:04 | DEBUG | API response status: 200
+2025-06-03 23:38:06 | DEBUG | Making GET request to: http://localhost:8000/test/hs/api/service-orders/000000001
+2025-06-03 23:38:06 | DEBUG | API response status: 200
+2025-06-04 00:00:35 | INFO | Запуск бота для механиков СТО...
+2025-06-04 00:00:36 | INFO | Бот механиков СТО запущен
+2025-06-04 00:03:18 | INFO | Запуск бота для механиков СТО...
+2025-06-04 00:03:18 | INFO | Бот механиков СТО запущен
+2025-06-04 00:03:36 | INFO | Запуск бота для механиков СТО...
+2025-06-04 00:03:37 | INFO | Бот механиков СТО запущен
+2025-06-04 00:08:57 | INFO | Запуск бота для механиков СТО...
+2025-06-04 00:08:57 | INFO | Бот механиков СТО запущен
